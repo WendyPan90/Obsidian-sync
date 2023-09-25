@@ -1,18 +1,22 @@
 {
   "main": {
-    "id": "d382cfdb17d24641",
+    "id": "214c53c68a0e2097",
     "type": "split",
     "children": [
       {
-        "id": "c6a926fbfa48b44a",
+        "id": "545a10165511d00e",
         "type": "tabs",
         "children": [
           {
-            "id": "a9231123fed281be",
+            "id": "1c5b920feeab3207",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "CSS.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -21,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "ffacf3452c5534df",
+    "id": "f4be678cd1a4c2a4",
     "type": "split",
     "children": [
       {
-        "id": "1ee44a33cf66d715",
+        "id": "bb5bdced0c2a355a",
         "type": "tabs",
         "children": [
           {
-            "id": "e93f69d3548f7ac6",
+            "id": "95d105262abd84f9",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -39,7 +43,7 @@
             }
           },
           {
-            "id": "5594dbdf2d349dac",
+            "id": "adf6ce890617f93c",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -54,7 +58,7 @@
             }
           },
           {
-            "id": "0319372508c397d9",
+            "id": "3a43ed0504f5bd8c",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -68,19 +72,20 @@
     "width": 300
   },
   "right": {
-    "id": "7b1cbe465395e7f2",
+    "id": "daa25cda8a1563a6",
     "type": "split",
     "children": [
       {
-        "id": "9e2e282e7d9c3786",
+        "id": "d7dd485e82577f35",
         "type": "tabs",
         "children": [
           {
-            "id": "87431055ae56e4f7",
+            "id": "7daa19be829b1a7e",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CSS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,18 +97,19 @@
             }
           },
           {
-            "id": "293fb249568ec112",
+            "id": "fc62d1955093da5c",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "CSS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "2e3ce8eec92fac61",
+            "id": "e2c90f4572596618",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -114,11 +120,13 @@
             }
           },
           {
-            "id": "cb231f58cd9f62d9",
+            "id": "6363f6e8a7c15c3c",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "CSS.md"
+              }
             }
           }
         ]
@@ -138,43 +146,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e93f69d3548f7ac6",
+  "active": "1c5b920feeab3207",
   "lastOpenFiles": [
-    "Shoot/Pr/錄音/旁白錄製.md",
-    "Shoot/Pr/錄音",
-    "Shoot/Pr/效果/轉場.md",
-    "Shoot/Pr/效果/明暗及色調調整.md",
-    "Shoot/Pr/效果/快轉&慢動作.md",
-    "Shoot/Pr/效果",
-    "Shoot/Pr/剪輯/音檔處理.md",
-    "Shoot/Pr/剪輯/文字.md",
-    "Shoot/Pr/剪輯/快捷鍵.md",
-    "Shoot/Pr/剪輯/Marker.md",
-    "Shoot/Pr/剪輯/Jump cut.md",
-    "Shoot/Pr/剪輯",
-    "Shoot/Pr/影片輸出.md",
-    "Shoot/Pr/基礎教學.md",
-    "Shoot/Pr",
-    "Shoot/photography/分鏡表.md",
-    "Shoot/photography/Go pro7.md",
-    "Shoot/photography/film editing.md",
-    "Shoot/photography",
-    "Shoot",
-    "新增資料夾",
-    "ComputerSience/SMT.md",
-    "ComputerSience/Polymorphism多形.md",
-    "ComputerSience/MVC.md",
-    "ComputerSience/MERN.md",
-    "ComputerSience/Information Security.md",
-    "ComputerSience/CSS.md",
-    "ComputerSience/CDC.md",
-    "ComputerSience/Accessories/基本配件.md",
-    "ComputerSience/Accessories/Screen.md",
-    "ComputerSience/Accessories/Power supply.md",
-    "ComputerSience/Accessories/Motherboard.md",
-    "ComputerSience/Accessories/Monitor.md",
-    "ComputerSience/Accessories",
-    "ComputerSience",
-    "Class/Operatione System"
+    "SMT.md",
+    "Polymorphism多形.md",
+    "MVC.md",
+    "MERN.md",
+    "Information Security.md",
+    "CSS.md",
+    "CDC.md",
+    "Accessories/基本配件.md",
+    "Accessories/Screen.md",
+    "Accessories/Power supply.md",
+    "Accessories/Motherboard.md",
+    "Accessories/Monitor.md",
+    "Accessories/Memory.md",
+    "Accessories/Hard disk.md",
+    "Accessories/Graphics card.md",
+    "Accessories/CPU.md",
+    "Accessories/CPU cooler+case fan.md",
+    "Accessories/Case.md",
+    "Accessories"
   ]
 }

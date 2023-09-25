@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "d382cfdb17d24641",
+    "id": "5bbedfb989f9dbf3",
     "type": "split",
     "children": [
       {
-        "id": "c6a926fbfa48b44a",
+        "id": "d482f710d4b387e7",
         "type": "tabs",
         "children": [
           {
-            "id": "a9231123fed281be",
+            "id": "addb66ca664f8595",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -21,15 +21,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "ffacf3452c5534df",
+    "id": "e7696b532646f55d",
     "type": "split",
     "children": [
       {
-        "id": "1ee44a33cf66d715",
+        "id": "dedfc68a871c0dc6",
         "type": "tabs",
         "children": [
           {
-            "id": "e93f69d3548f7ac6",
+            "id": "d70c7ac02aa23888",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -39,7 +39,7 @@
             }
           },
           {
-            "id": "5594dbdf2d349dac",
+            "id": "15c107e88ab16ba8",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -54,7 +54,7 @@
             }
           },
           {
-            "id": "0319372508c397d9",
+            "id": "8134f763094033d7",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -68,15 +68,15 @@
     "width": 300
   },
   "right": {
-    "id": "7b1cbe465395e7f2",
+    "id": "3656ca01d0580c6d",
     "type": "split",
     "children": [
       {
-        "id": "9e2e282e7d9c3786",
+        "id": "636d4f8c8bf58114",
         "type": "tabs",
         "children": [
           {
-            "id": "87431055ae56e4f7",
+            "id": "852e2e882de13986",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -92,7 +92,7 @@
             }
           },
           {
-            "id": "293fb249568ec112",
+            "id": "663768e7cc34e6b4",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -103,7 +103,7 @@
             }
           },
           {
-            "id": "2e3ce8eec92fac61",
+            "id": "6833b297acf8b244",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -114,7 +114,7 @@
             }
           },
           {
-            "id": "cb231f58cd9f62d9",
+            "id": "71395996d6fc9918",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -125,8 +125,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -138,43 +137,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e93f69d3548f7ac6",
+  "active": "addb66ca664f8595",
   "lastOpenFiles": [
-    "Shoot/Pr/錄音/旁白錄製.md",
-    "Shoot/Pr/錄音",
-    "Shoot/Pr/效果/轉場.md",
-    "Shoot/Pr/效果/明暗及色調調整.md",
-    "Shoot/Pr/效果/快轉&慢動作.md",
-    "Shoot/Pr/效果",
-    "Shoot/Pr/剪輯/音檔處理.md",
-    "Shoot/Pr/剪輯/文字.md",
-    "Shoot/Pr/剪輯/快捷鍵.md",
-    "Shoot/Pr/剪輯/Marker.md",
-    "Shoot/Pr/剪輯/Jump cut.md",
-    "Shoot/Pr/剪輯",
-    "Shoot/Pr/影片輸出.md",
-    "Shoot/Pr/基礎教學.md",
-    "Shoot/Pr",
-    "Shoot/photography/分鏡表.md",
-    "Shoot/photography/Go pro7.md",
-    "Shoot/photography/film editing.md",
-    "Shoot/photography",
-    "Shoot",
-    "新增資料夾",
-    "ComputerSience/SMT.md",
-    "ComputerSience/Polymorphism多形.md",
-    "ComputerSience/MVC.md",
-    "ComputerSience/MERN.md",
-    "ComputerSience/Information Security.md",
-    "ComputerSience/CSS.md",
-    "ComputerSience/CDC.md",
-    "ComputerSience/Accessories/基本配件.md",
-    "ComputerSience/Accessories/Screen.md",
-    "ComputerSience/Accessories/Power supply.md",
-    "ComputerSience/Accessories/Motherboard.md",
-    "ComputerSience/Accessories/Monitor.md",
-    "ComputerSience/Accessories",
-    "ComputerSience",
-    "Class/Operatione System"
+    "Pr/錄音/旁白錄製.md",
+    "Pr/錄音",
+    "Pr/效果/轉場.md",
+    "Pr/效果/明暗及色調調整.md",
+    "Pr/效果/快轉&慢動作.md",
+    "Pr/效果",
+    "Pr/剪輯/音檔處理.md",
+    "Pr/剪輯/文字.md",
+    "Pr/剪輯/快捷鍵.md",
+    "Pr/剪輯/Marker.md",
+    "Pr/剪輯/Jump cut.md",
+    "Pr/剪輯",
+    "Pr/影片輸出.md",
+    "Pr/基礎教學.md",
+    "Pr",
+    "photography/分鏡表.md",
+    "photography/Go pro7.md",
+    "photography/film editing.md",
+    "photography"
   ]
 }
