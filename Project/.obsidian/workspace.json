@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "d382cfdb17d24641",
+    "id": "7122330179125939",
     "type": "split",
     "children": [
       {
-        "id": "c6a926fbfa48b44a",
+        "id": "1069b61aff44932a",
         "type": "tabs",
         "children": [
           {
-            "id": "a9231123fed281be",
+            "id": "f093e5e3dc2c2fcf",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -21,15 +21,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "ffacf3452c5534df",
+    "id": "611f55c166abe081",
     "type": "split",
     "children": [
       {
-        "id": "1ee44a33cf66d715",
+        "id": "64b27910ada7d746",
         "type": "tabs",
         "children": [
           {
-            "id": "e93f69d3548f7ac6",
+            "id": "b3575f31af160e43",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -39,7 +39,7 @@
             }
           },
           {
-            "id": "5594dbdf2d349dac",
+            "id": "bcbc3ccf68d7c6bd",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -54,7 +54,7 @@
             }
           },
           {
-            "id": "0319372508c397d9",
+            "id": "8bc797a6c2692333",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -68,15 +68,15 @@
     "width": 300
   },
   "right": {
-    "id": "7b1cbe465395e7f2",
+    "id": "0d1147316a55d007",
     "type": "split",
     "children": [
       {
-        "id": "9e2e282e7d9c3786",
+        "id": "df41bbcec4bac3f8",
         "type": "tabs",
         "children": [
           {
-            "id": "87431055ae56e4f7",
+            "id": "316c2f3ac86549b1",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -92,7 +92,7 @@
             }
           },
           {
-            "id": "293fb249568ec112",
+            "id": "b5d47193d53b83fb",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -103,7 +103,7 @@
             }
           },
           {
-            "id": "2e3ce8eec92fac61",
+            "id": "90d31b306e522e51",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -114,7 +114,7 @@
             }
           },
           {
-            "id": "cb231f58cd9f62d9",
+            "id": "ee3958b3943cc509",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -138,43 +138,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e93f69d3548f7ac6",
+  "active": "f093e5e3dc2c2fcf",
   "lastOpenFiles": [
-    "Shoot/Twitch/OBS.md",
-    "Shoot/Twitch",
-    "Project/datamesh/病歷架構.md",
-    "Project/datamesh/Web.md",
-    "Project/datamesh/database.md",
-    "Project/datamesh/connect.md",
-    "Project/datamesh/CDC.md",
-    "Project/datamesh",
-    "Project/新增資料夾",
-    "Project",
-    "新增資料夾",
-    "Shoot/Pr/錄音/旁白錄製.md",
-    "Shoot/Pr/錄音",
-    "Shoot/Pr/效果/轉場.md",
-    "Shoot/Pr/效果/明暗及色調調整.md",
-    "Shoot/Pr/效果/快轉&慢動作.md",
-    "Shoot/Pr/效果",
-    "Shoot/Pr/剪輯/音檔處理.md",
-    "Shoot/Pr/剪輯/文字.md",
-    "Shoot/Pr/剪輯/快捷鍵.md",
-    "Shoot/Pr/剪輯/Marker.md",
-    "Shoot/Pr/剪輯/Jump cut.md",
-    "Shoot/Pr/剪輯",
-    "Shoot/Pr/影片輸出.md",
-    "Shoot/Pr/基礎教學.md",
-    "Shoot/Pr",
-    "Shoot/photography/分鏡表.md",
-    "Shoot/photography/Go pro7.md",
-    "Shoot/photography/film editing.md",
-    "Shoot/photography",
-    "ComputerSience/SMT.md",
-    "ComputerSience/Polymorphism多形.md",
-    "ComputerSience/MVC.md",
-    "ComputerSience/MERN.md",
-    "ComputerSience/Information Security.md",
-    "ComputerSience/CSS.md"
+    "datamesh/病歷架構.md",
+    "datamesh/Web.md",
+    "datamesh/database.md",
+    "datamesh/connect.md",
+    "datamesh/CDC.md",
+    "datamesh",
+    "新增資料夾"
   ]
 }
