@@ -1,0 +1,153 @@
+{
+  "main": {
+    "id": "d382cfdb17d24641",
+    "type": "split",
+    "children": [
+      {
+        "id": "c6a926fbfa48b44a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a9231123fed281be",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ffacf3452c5534df",
+    "type": "split",
+    "children": [
+      {
+        "id": "1ee44a33cf66d715",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e93f69d3548f7ac6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5594dbdf2d349dac",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0319372508c397d9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7b1cbe465395e7f2",
+    "type": "split",
+    "children": [
+      {
+        "id": "9e2e282e7d9c3786",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "87431055ae56e4f7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "293fb249568ec112",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2e3ce8eec92fac61",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "cb231f58cd9f62d9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "a9231123fed281be",
+  "lastOpenFiles": [
+    "Class/Web.md",
+    "Class/Network Security.md",
+    "Class/Network Management.md",
+    "Class/Microprocessor system.md",
+    "Class/Excel.md",
+    "Class/Operatione System/Chapter 1 - Introduction.md",
+    "Class/Operatione System",
+    "Class",
+    "新增資料夾"
+  ]
+}
