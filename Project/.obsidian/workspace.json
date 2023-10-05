@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "66ce076328a11319",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.14"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,7 +157,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f093e5e3dc2c2fcf",
+  "active": "66ce076328a11319",
   "lastOpenFiles": [
     "datamesh/病歷架構.md",
     "datamesh/Web.md",
