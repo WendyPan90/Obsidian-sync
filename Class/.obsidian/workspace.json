@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web.md",
+                "file": "Web/picture.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web.md",
+                "file": "Web/picture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web.md",
+                "file": "Web/picture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web.md"
+                "file": "Web/picture.md"
               }
             }
           }
@@ -148,9 +148,17 @@
   },
   "active": "d98e6a76217d13ca",
   "lastOpenFiles": [
+    "Pasted image 20231006170424.png",
+    "Pasted image 20231006170408.png",
+    "Pasted image 20231006170356.png",
+    "Pasted image 20231006170332.png",
+    "Pasted image 20231006170257.png",
+    "Pasted image 20231006170247.png",
+    "Web.md",
+    "Web/picture.md",
+    "Web",
     "Network Management.md",
     "Microprocessor system.md",
-    "Web.md",
     "Network Security.md",
     "Excel.md",
     "Operatione System/Chapter 1 - Introduction.md",
