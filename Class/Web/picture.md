@@ -4,3 +4,9 @@
 ![[Pasted image 20231006170356.png]]
 ![[Pasted image 20231006170408.png]]
 ![[Pasted image 20231006170424.png]]
+![[Pasted image 20231006170728.png]]
+![[Pasted image 20231006170745.png]]
+
+![[Pasted image 20231006170756.png]]
+![[Pasted image 20231006170812.png]]
+![[Pasted image 20231006170845.png]]
