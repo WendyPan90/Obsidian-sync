@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "投資/新手投資基本概念/基本詞彙.md",
+                "file": "投資/新手投資基本概念/基本術語&概念.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "投資/新手投資基本概念/基本詞彙.md",
+                "file": "投資/新手投資基本概念/基本術語&概念.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "投資/新手投資基本概念/基本詞彙.md",
+                "file": "投資/新手投資基本概念/基本術語&概念.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "投資/新手投資基本概念/基本詞彙.md"
+                "file": "投資/新手投資基本概念/基本術語&概念.md"
               }
             }
           }
@@ -148,9 +148,20 @@
   },
   "active": "a16c06e246e0a2af",
   "lastOpenFiles": [
-    "投資/新手投資基本概念/Untitled.md",
-    "投資/新手投資基本概念/基本詞彙.md",
     "投資/新手投資基本概念/投資注意事項.md",
+    "投資/新手投資基本概念/基本術語&概念.md",
+    "投資/新手投資基本概念/picture/Pasted image 20231005141357.png",
+    "投資/新手投資基本概念/picture/Pasted image 20231005140809.png",
+    "投資/新手投資基本概念/picture/Pasted image 20231005140429.png",
+    "投資/新手投資基本概念/picture/Pasted image 20231005140335.png",
+    "投資/新手投資基本概念/picture/Pasted image 20231005124903.png",
+    "投資/新手投資基本概念/picture/Pasted image 20231005123105.png",
+    "投資/新手投資基本概念/picture/Pasted image 20231005122848.png",
+    "投資/新手投資基本概念/picture/Pasted image 20231005121216.png",
+    "投資/新手投資基本概念/picture/Pasted image 20231005120757.png",
+    "投資/新手投資基本概念/picture/Pasted image 20231005121056.png",
+    "投資/新手投資基本概念/Untitled.md",
+    "投資/新手投資基本概念/picture",
     "投資/新手投資基本概念",
     "投資/投資心法",
     "投資"
