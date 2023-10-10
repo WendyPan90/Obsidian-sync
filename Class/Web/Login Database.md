@@ -27,12 +27,19 @@
 	6. 確認好了之後點選左上角的"**更新**">>"**更新資料庫**"。
 		![[Pasted image 20231006170812.png]]
 		![[Pasted image 20231006170845.png]]
-	7. 回到default檔案的設計頁面，在工具箱中把"**DetailsView**" (方便查看資料) 和"**SqlDataSource**" (網頁和資料庫的連結) 放入頁面中。
+2. 網頁連結資料庫。
+	1. 回到default檔案的設計頁面，在工具箱中把"**DetailsView**" (方便查看資料) 和"**SqlDataSource**" (網頁和資料庫的連結) 放入頁面中。
 		![[Pasted image 20231006171346.png]]
-![[Pasted image 20231006171402.png]]
-![[Pasted image 20231006171410.png]]
-![[Pasted image 20231006171423.png]]
-![[Pasted image 20231006171433.png]]
+	2. 將剛剛拉近設計頁面的元素重新命名(ID)。
+	3. **連接資料庫**: 
+		* 點選SqlDataSource，右邊會出現一個箭頭，點下去。
+			![[Pasted image 20231006171402.png]]
+		* 點選"設定資料來源"。
+			![[Pasted image 20231006171410.png]]
+		* 選擇剛剛建立的資料庫，並按兩次"下一步"。
+			![[Pasted image 20231006171423.png]]
+			(這裡不用改，直接下一步)![[Pasted image 20231006171433.png]]
+		* 
 ![[Pasted image 20231006171443.png]]
 ![[Pasted image 20231006171452.png]]
 ![[Pasted image 20231006171508.png]]
