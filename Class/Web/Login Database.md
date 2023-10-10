@@ -90,7 +90,7 @@
 			*  判斷資料是否有抓到資料，再將link和datasview顯示出來。
 			1. 將"DetailsView"和"進入商店link"隱藏。
 				![[Pasted image 20231010113941.png]]
-			2. 判斷是否有抓到資料，如果有就將"**工作階段狀態**"儲存，
+			2. 判斷是否有抓到資料，如果有就將"**工作階段狀態**"儲存並將"進入商店link"啟用 ; 若資料抓取有錯誤，則將"工作階段狀態"設為null並將"DetailsView"顯示。
 				![[Pasted image 20231010114200.png]]
 ![[Pasted image 20231006172350.png]]
 ![[Pasted image 20231006172403.png]]
