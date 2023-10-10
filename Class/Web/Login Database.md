@@ -24,10 +24,11 @@
 	5.  直接在table內加入要的elements，並選擇相對應的type，最後將id (用不到) 刪除，並在下面指令將table重新命名 (這裡取為userData)。
 		![[Pasted image 20231006170745.png]]
 		(下面的指令最後會長這樣)![[Pasted image 20231006170756.png]]
-	6. 
-![[Pasted image 20231006170812.png]]
-![[Pasted image 20231006170845.png]]
-![[Pasted image 20231006171346.png]]
+	6. 確認好了之後點選左上角的"**更新**">>"**更新資料庫**"。
+		![[Pasted image 20231006170812.png]]
+		![[Pasted image 20231006170845.png]]
+	7. 回到default檔案的設計頁面，在工具箱中把"**DetailsView**" (方便查看資料) 和"**SqlDataSource**" (網頁和資料庫的連結) 放入頁面中。
+		![[Pasted image 20231006171346.png]]
 ![[Pasted image 20231006171402.png]]
 ![[Pasted image 20231006171410.png]]
 ![[Pasted image 20231006171423.png]]
