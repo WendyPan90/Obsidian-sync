@@ -103,8 +103,10 @@
 			![[Pasted image 20231006172434.png]]
 			![[Pasted image 20231006172451.png]]
 4.  顯示資料錯誤提示。
+	1. 在"DetailsView"屬性中的"**EmptyDataText**"中輸入有錯時的錯誤提醒。
+		![[Pasted image 20231006172514.png]]
+5. 新增資料庫資料。
 	1. 
-![[Pasted image 20231006172514.png]]
 ![[Pasted image 20231006172555.png]]
 ![[Pasted image 20231006172612.png]]
 ![[Pasted image 20231006172811.png]]
