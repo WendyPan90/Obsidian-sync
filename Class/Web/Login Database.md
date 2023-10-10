@@ -84,8 +84,9 @@
 	3. code設定。
 		* 在"**載入事件**"中新增code，讓網頁載入時就幫忙做資料綁定。
 			![[Pasted image 20231010112650.png]]
-		* 按下按鈕時，希望"進入商店LINK"以及"DetailsView"可以做隱藏。
-			
+		* 按下按鈕時:
+			* 希望"進入商店LINK"以及"DetailsView"可以做隱藏。
+			* 將TB的內容傳給伺服器，做資料比對。
 ![[Pasted image 20231006172350.png]]
 ![[Pasted image 20231006172403.png]]
 ![[Pasted image 20231006172418.png]]
