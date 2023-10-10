@@ -75,8 +75,13 @@
 		![[Pasted image 20231006171803.png]]
 		![[Pasted image 20231006171817.png]]
 		設定好之後顯示出的資料就會是剛剛設定要顯示的資料(name & money)![[Pasted image 20231006171826.png]]
-![[Pasted image 20231006171849.png]]
-![[Pasted image 20231006171859.png]]
+3. 登入功能設定。
+	1. "雙擊"登入按鍵，進到code頁面。
+		![[Pasted image 20231006171849.png]]
+		![[Pasted image 20231006171859.png]]
+	2. 可以在登入案件的"屬性"中改事件的名稱。
+		![[Pasted image 20231010111119.png]]
+	3. 
 ![[Pasted image 20231006172350.png]]
 ![[Pasted image 20231006172403.png]]
 ![[Pasted image 20231006172418.png]]
