@@ -66,14 +66,15 @@
 		> 		![[Pasted image 20231010104539.png]]
 		> 	7. 按"下一步"。
 		> 		![[Pasted image 20231010105943.png]]
-		> 	8. 設定參數 (和上面設定accountTB一樣，帳號密碼都要設定)，從屬性中將"**TYPE**"改成"**string**"。
+		> 	8. 設定參數 (和上面設定accountTB一樣，帳號密碼都要設定)，從屬性中將"**TYPE**"改成"**string**"，都設定好了之後按"下一步"。
 		> 		![[Pasted image 20231010110057.png]]
 		> 		![[Pasted image 20231010110220.png]]
-		> 	9. 
-		> 		
-![[Pasted image 20231006171803.png]]
-![[Pasted image 20231006171817.png]]
-![[Pasted image 20231006171826.png]]
+		> 	9. 點選"測試查詢"。
+
+	4. 回到設計頁面，點選"DetailsView"右邊的箭頭，選擇剛剛設地好的SqlDataSource。
+		![[Pasted image 20231006171803.png]]
+		![[Pasted image 20231006171817.png]]
+		設定好之後顯示出的資料就會是剛剛設定要顯示的資料(name & money)![[Pasted image 20231006171826.png]]
 ![[Pasted image 20231006171849.png]]
 ![[Pasted image 20231006171859.png]]
 ![[Pasted image 20231006172350.png]]
