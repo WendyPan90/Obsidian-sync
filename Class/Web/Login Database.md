@@ -95,7 +95,8 @@
 		* 完整code:
 			
 			![[Pasted image 20231006172350.png]]
-	4. 回到default頁面 (firstpage)，把連結按鈕(lo)
+	4. 回到default頁面 (firstpage)，把"**連結(進入商店)**"和"**DetailsView**"屬性中的"**Visible**"設為"**False**"。
+		* entry link
 ![[Pasted image 20231006172403.png]]
 ![[Pasted image 20231006172418.png]]
 ![[Pasted image 20231006172434.png]]
