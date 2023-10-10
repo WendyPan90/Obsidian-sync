@@ -28,7 +28,7 @@
 		![[Pasted image 20231006170812.png]]
 		![[Pasted image 20231006170845.png]]
 2. 網頁連結資料庫。
-	1. 回到default檔案的設計頁面，在工具箱中把"**DetailsView**" (方便查看資料) 和"**SqlDataSource**" (網頁和資料庫的連結) 放入頁面中。
+	1. 回到default (firstpage) 檔案的設計頁面，在工具箱中把"**DetailsView**" (方便查看資料) 和"**SqlDataSource**" (網頁和資料庫的連結) 放入頁面中。
 		![[Pasted image 20231006171346.png]]
 	2. 將剛剛拉近設計頁面的元素重新命名(ID)。
 	3. **連接資料庫**: 
@@ -92,7 +92,10 @@
 				![[Pasted image 20231010113941.png]]
 			2. 判斷是否有抓到資料，如果有就將"**工作階段狀態**"儲存並將"進入商店link"啟用 ; 若資料抓取有錯誤，則將"工作階段狀態"設為null並將"DetailsView"顯示。
 				![[Pasted image 20231010114200.png]]
-![[Pasted image 20231006172350.png]]
+		* 完整code:
+			
+			![[Pasted image 20231006172350.png]]
+	4. 回到default頁面 (firstpage)，把連結按鈕(lo)
 ![[Pasted image 20231006172403.png]]
 ![[Pasted image 20231006172418.png]]
 ![[Pasted image 20231006172434.png]]
