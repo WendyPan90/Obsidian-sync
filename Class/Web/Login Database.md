@@ -11,11 +11,17 @@
 
 1. 建立資料庫
 	1. 在App Data檔案按右鍵，選擇加入"新增項目"。
-![[Pasted image 20231006170247.png]]
-![[Pasted image 20231006170257.png]]
-![[Pasted image 20231006170332.png]]
-![[Pasted image 20231006170356.png]]
-![[Pasted image 20231006170408.png]]
+		![[Pasted image 20231006170247.png]]
+		![[Pasted image 20231006170257.png]]
+		
+	2. 選擇C#中的資料，點選SQL Server資料庫，並將它重新命名後新增。
+		![[Pasted image 20231006170332.png]]
+
+	3. 新增結束後，對mdf按兩下進入"**伺服器總管**"，並對mdf(剛剛建的database)點兩下連線。
+		![[Pasted image 20231006170356.png]]
+		![[Pasted image 20231006170408.png]]
+
+	4. 對資料表按右鍵新增新的資料表，會進到一個t
 ![[Pasted image 20231006170424.png]]
 ![[Pasted image 20231006170728.png]]
 ![[Pasted image 20231006170745.png]]
