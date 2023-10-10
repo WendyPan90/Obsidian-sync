@@ -102,7 +102,8 @@
 		* DetailsView : 
 			![[Pasted image 20231006172434.png]]
 			![[Pasted image 20231006172451.png]]
-4.  顯示資料
+4.  顯示資料錯誤提示。
+	1. 
 ![[Pasted image 20231006172514.png]]
 ![[Pasted image 20231006172555.png]]
 ![[Pasted image 20231006172612.png]]
