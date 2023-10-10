@@ -87,7 +87,11 @@
 		* 按下按鈕時:
 			* 希望"進入商店LINK"以及"DetailsView"可以做隱藏。
 			* 將TB的內容傳給伺服器，做資料比對。
-		* 判斷資料是否有抓到資料，再將link和datasview顯示出來。
+			*  判斷資料是否有抓到資料，再將link和datasview顯示出來。
+			1. 將"DetailsView"和"進入商店link"隱藏。
+				![[Pasted image 20231010113941.png]]
+			2. 判斷是否有抓到資料，如果有就將"**工作階段狀態**"儲存，
+				![[Pasted image 20231010114200.png]]
 ![[Pasted image 20231006172350.png]]
 ![[Pasted image 20231006172403.png]]
 ![[Pasted image 20231006172418.png]]
