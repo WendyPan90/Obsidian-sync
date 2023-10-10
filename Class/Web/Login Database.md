@@ -13,20 +13,18 @@
 	1. 在App Data檔案按右鍵，選擇加入"新增項目"。
 		![[Pasted image 20231006170247.png]]
 		![[Pasted image 20231006170257.png]]
-		
 	2. 選擇C#中的資料，點選SQL Server資料庫，並將它重新命名後新增。
 		![[Pasted image 20231006170332.png]]
-
 	3. 新增結束後，對mdf按兩下進入"**伺服器總管**"，並對mdf(剛剛建的database)點兩下連線。
 		![[Pasted image 20231006170356.png]]
 		![[Pasted image 20231006170408.png]]
-
-	4. 對資料表按右鍵新增新的資料表，會進到一個t
-![[Pasted image 20231006170424.png]]
-![[Pasted image 20231006170728.png]]
-![[Pasted image 20231006170745.png]]
-
-![[Pasted image 20231006170756.png]]
+	4. 對資料表按右鍵新增新的資料表，會進到一個table。
+		![[Pasted image 20231006170424.png]]
+		![[Pasted image 20231006170728.png]]
+	5.  直接在table內加入要的elements，並選擇相對應的type，最後將id (用不到) 刪除，並在下面指令將table重新命名 (這裡取為userData)。
+		![[Pasted image 20231006170745.png]]
+		(下面的指令最後會長這樣)![[Pasted image 20231006170756.png]]
+	6. 
 ![[Pasted image 20231006170812.png]]
 ![[Pasted image 20231006170845.png]]
 ![[Pasted image 20231006171346.png]]
