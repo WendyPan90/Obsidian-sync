@@ -55,8 +55,13 @@
 		> 		![[Pasted image 20231010103540.png]]
 		> 	2. 點選"**查詢產生器**"。
 		> 		![[Pasted image 20231010103627.png]]
-		> 	3. 選擇剛剛建立的資料表，按下加入。
-		> 		
+		> 	3. 選擇剛剛建立的資料表，按下加入後關閉視窗(右下關閉)。
+		> 		![[Pasted image 20231010103813.png]]
+		> 	4. 選擇要設定的項目 (這裡選擇 : name & money & password)。
+		> 		![[Pasted image 20231010103938.png]]
+		> 	5. 在下面的table終將沒有要顯示的項目 (password) 在"輸出"中取消勾選。
+		> 		![[Pasted image 20231010104152.png]]
+		> 	6. 在"**篩選**"中填入 "=@" + 該IＤ。
 ![[Pasted image 20231006171803.png]]
 ![[Pasted image 20231006171817.png]]
 ![[Pasted image 20231006171826.png]]
