@@ -53,3 +53,7 @@
 			* 價格Label: DrinkPriceLB (ID) / X 元 (Text)
 			* 庫存Label: DrinkQtLB (ID) / 庫存 : X 個 (Text)
 			* 圖片: DrinkImage (ID)
+4. 建立新的商品資料表。
+	1. 到伺服器總管的資料表中新增資料表。
+		![[Pasted image 20231012204105.png]]
+	2. 
