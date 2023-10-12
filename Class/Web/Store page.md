@@ -75,7 +75,7 @@
 	4. 回到default (firstpage)設計頁面，在工作欄的"資料"中插入2個"**查詢器(SqlDataSource)**"和1個"**DetailsView**"。
 		1. SqlDataSource:
 			命名: DrinkData (ID) >> 提供下拉式清單選項
-			命名: DrinkDataSelect (ID) >> 
+			命名: DrinkDataSelect (ID) >> 將下拉式清單選取的值挑出來給DetailsView顯示
 			![[Pasted image 20231012205724.png]]
 		2. DetailsView:
 			命名: DrinkDetailsView (ID)
@@ -91,6 +91,13 @@
 		4. 設定下拉式清單:
 			* 選擇資料來源。
 				![[Pasted image 20231012210647.png]]
-			* 選擇剛剛設定的DrinkData。(要改一下顯示的資料ㄌㄢ)
+			* 選擇剛剛設定的DrinkData。(要改一下顯示的資料欄位)
 				![[Pasted image 20231012210756.png]]
-			* 
+		5. 設定第二個查詢器 (DrinkDataSelect):
+			* 設定資料來源。
+				![[Pasted image 20231012211026.png]]
+			* 選擇Database。
+				![[Pasted image 20231012211043.png]]
+			* 選擇要顯示的項目。
+				![[Pasted image 20231012211126.png]]
+			* 在where中篩選條件 (此和做login account和password相同)。
