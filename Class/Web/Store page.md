@@ -100,9 +100,11 @@
 				* 先做DetailsView的綁定。
 					![[Pasted image 20231012212220.png]]
 				* "價格"和"庫存"的初始文字設定。
+					![[Pasted image 20231012212347.png]]
+				* 若選擇項目為"非未選取"項目，則將其"價格"以及"庫存"顯示出來。
 					
 				
-		1. 設定第二個查詢器 (DrinkDataSelect):
+		5. 設定第二個查詢器 (DrinkDataSelect):
 			* 設定資料來源。
 				![[Pasted image 20231012211026.png]]
 			* 選擇Database。
