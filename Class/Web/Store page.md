@@ -93,7 +93,8 @@
 				![[Pasted image 20231012210647.png]]
 			* 選擇剛剛設定的DrinkData。(要改一下顯示的資料欄位)
 				![[Pasted image 20231012210756.png]]
-		5. 設定第二個查詢器 (DrinkDataSelect):
+			* 將其屬性中的"**AutoPostBack**"設成true。
+		1. 設定第二個查詢器 (DrinkDataSelect):
 			* 設定資料來源。
 				![[Pasted image 20231012211026.png]]
 			* 選擇Database。
@@ -101,3 +102,11 @@
 			* 選擇要顯示的項目。
 				![[Pasted image 20231012211126.png]]
 			* 在where中篩選條件 (此和做login account和password相同)。
+				id : (這裡只要設定id)
+				![[Pasted image 20231012211326.png]]
+			* 下一步 >> 完成。
+		6. 設定DetailsView。
+			* 選擇資料來源。
+				![[Pasted image 20231012211547.png]]
+			* 將其屬性的"**Visible**"設成false。(可以直接在visible點兩下!)
+				![[Pasted image 20231012211701.png]]
