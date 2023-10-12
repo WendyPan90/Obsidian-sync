@@ -49,5 +49,7 @@
 			圖片:
 			![[Pasted image 20231012202950.png]]
 		* 將各自項目做命名。
-			* 下拉式選單:
-			
+			* 下拉式選單: DrinkList (ID)
+			* 價格Label: DrinkPriceLB (ID) / X 元 (Text)
+			* 庫存Label: DrinkQtLB (ID) / 庫存 : X 個 (Text)
+			* 圖片: DrinkImage (ID)
