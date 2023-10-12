@@ -94,6 +94,14 @@
 			* 選擇剛剛設定的DrinkData。(要改一下顯示的資料欄位)
 				![[Pasted image 20231012210756.png]]
 			* 將其屬性中的"**AutoPostBack**"設成true。
+				![[Pasted image 20231012211843.png]]
+			* 點選屬性中的"**事件**"(閃電符號)在欄位點兩下，或直接對下拉式清單點兩下，進入code頁面。
+			* 當選曲項目改變時會觸發的事件code。
+				* 先做DetailsView的綁定。
+					![[Pasted image 20231012212220.png]]
+				* "價格"和"庫存"的初始文字設定。
+					
+				
 		1. 設定第二個查詢器 (DrinkDataSelect):
 			* 設定資料來源。
 				![[Pasted image 20231012211026.png]]
