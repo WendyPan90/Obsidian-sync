@@ -73,8 +73,14 @@
 		* 新增項目。
 			![[Pasted image 20231012205436.png]]
 	4. 回到default (firstpage)設計頁面，在工作欄的"資料"中插入2個"**查詢器(SqlDataSource)**"和1個"**DetailsView**"。
-		SqlDataSource:
-		![[Pasted image 20231012205724.png]]
-		DetailsView:
-		![[Pasted image 20231012205809.png]]
-		
+		1. SqlDataSource:
+			命名: DrinkData (ID) >> 提供下拉式清單選項
+			命名: DrinkDataSelect (ID) >> 
+			![[Pasted image 20231012205724.png]]
+		2. DetailsView:
+			命名: DrinkDetailsView (ID)
+			![[Pasted image 20231012205809.png]]
+		3. 設定查詢器:
+			* 設定資料來源:
+				![[Pasted image 20231012210256.png]]
+				選擇所使用的
