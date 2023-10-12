@@ -71,4 +71,10 @@
 		* 在剛剛創建的table做"顯示資料表內容"。
 			![[Pasted image 20231012205209.png]]
 		* 新增項目。
-			
+			![[Pasted image 20231012205436.png]]
+	4. 回到default (firstpage)設計頁面，在工作欄的"資料"中插入2個"**查詢器(SqlDataSource)**"和1個"**DetailsView**"。
+		SqlDataSource:
+		![[Pasted image 20231012205724.png]]
+		DetailsView:
+		![[Pasted image 20231012205809.png]]
+		
