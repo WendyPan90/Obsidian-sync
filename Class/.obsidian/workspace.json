@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web/Login Database.md",
+                "file": "Web/Store page.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web/Login Database.md",
+                "file": "Web/Store page.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web/Login Database.md",
+                "file": "Web/Store page.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web/Login Database.md"
+                "file": "Web/Store page.md"
               }
             }
           }
@@ -147,19 +147,19 @@
   },
   "active": "d98e6a76217d13ca",
   "lastOpenFiles": [
-    "Pasted image 20231012201218.png",
-    "Web/Browsing page.md",
-    "Pasted image 20231012201035.png",
-    "Pasted image 20231012200554.png",
-    "Pasted image 20231012200445.png",
-    "Pasted image 20231012200432.png",
-    "Pasted image 20231012200340.png",
-    "Pasted image 20231012200330.png",
-    "Pasted image 20231012200236.png",
-    "Pasted image 20231012195729.png",
-    "Pasted image 20231012194514.png",
-    "Pasted image 20231012194443.png",
+    "Pasted image 20231012201515.png",
+    "Pasted image 20231012201423.png",
+    "Web/picture/Pasted image 20231012194111.png",
+    "Web/picture/Pasted image 20231012193949.png",
+    "Web/picture/Pasted image 20231012193937.png",
     "Web/Login Database.md",
+    "Web/picture/Pasted image 20231012201234.png",
+    "Web/picture/Pasted image 20231012201218.png",
+    "Web/Store page.md",
+    "Web/picture/Pasted image 20231012201035.png",
+    "Web/picture/Pasted image 20231012200554.png",
+    "Web/picture/Pasted image 20231012200445.png",
+    "Web/picture/Pasted image 20231012200432.png",
     "Web/FirstPage Design.md",
     "Web/概念圖.md",
     "Network Security.md",

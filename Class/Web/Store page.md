@@ -1,4 +1,4 @@
-# Browsing page
+# Browsing store page
 文字敘述 
 影片教學 https://www.youtube.com/watch?v=RhISPOmlD2w
 
@@ -38,4 +38,8 @@
 		* 在載入頁面後顯示使用者資料。(透過之前設定的"工作階段狀態"做)
 			輸入code
 			![[Pasted image 20231012201035.png]]
-			
+		* 回到"**伺服器總館**"內，顯示資料表資料。
+			![[Pasted image 20231012201423.png]]
+		* 輸入money值。
+			![[Pasted image 20231012201515.png]]
+		
