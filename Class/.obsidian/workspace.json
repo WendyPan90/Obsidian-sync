@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web/Browsing page.md",
+                "file": "Web/Login Database.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web/Browsing page.md",
+                "file": "Web/Login Database.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web/Browsing page.md",
+                "file": "Web/Login Database.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web/Browsing page.md"
+                "file": "Web/Login Database.md"
               }
             }
           }
@@ -147,6 +147,9 @@
   },
   "active": "d98e6a76217d13ca",
   "lastOpenFiles": [
+    "Pasted image 20231012201218.png",
+    "Web/Browsing page.md",
+    "Pasted image 20231012201035.png",
     "Pasted image 20231012200554.png",
     "Pasted image 20231012200445.png",
     "Pasted image 20231012200432.png",
@@ -156,10 +159,7 @@
     "Pasted image 20231012195729.png",
     "Pasted image 20231012194514.png",
     "Pasted image 20231012194443.png",
-    "Pasted image 20231012194406.png",
-    "Pasted image 20231012194111.png",
     "Web/Login Database.md",
-    "Web/Browsing page.md",
     "Web/FirstPage Design.md",
     "Web/概念圖.md",
     "Network Security.md",
