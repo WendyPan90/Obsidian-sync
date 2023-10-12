@@ -80,7 +80,17 @@
 		2. DetailsView:
 			命名: DrinkDetailsView (ID)
 			![[Pasted image 20231012205809.png]]
-		3. 設定查詢器:
+		3. 設定查詢器 (DrinkData):
 			* 設定資料來源:
 				![[Pasted image 20231012210256.png]]
-				選擇所使用的
+				選擇所使用的database
+				![[Pasted image 20231012210414.png]]
+			* 選擇設定輸出的項目。
+				![[Pasted image 20231012210504.png]]
+			* 下一步 >> 完成。
+		4. 設定下拉式清單:
+			* 選擇資料來源。
+				![[Pasted image 20231012210647.png]]
+			* 選擇剛剛設定的DrinkData。(要改一下顯示的資料ㄌㄢ)
+				![[Pasted image 20231012210756.png]]
+			* 
