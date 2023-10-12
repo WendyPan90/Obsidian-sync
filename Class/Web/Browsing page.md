@@ -30,4 +30,10 @@
 		* 插入表格。(2x3) (放在表格比較好管理)
 			![[Pasted image 20231012195729.png]]
 		* 在 工具箱 >> 標準 >> Label，拉入表格並改名稱(ID)。
+			![[Pasted image 20231012200432.png]]
+			![[Pasted image 20231012200445.png]]
+			![[Pasted image 20231012200340.png]]
+		* 到store的cs檔案(要將其展開)。
+			![[Pasted image 20231012200554.png]]
+		* 在載入頁面後顯示使用者資料。
 			
