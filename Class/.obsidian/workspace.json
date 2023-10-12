@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web/Login Database.md",
+                "file": "Web/Browsing page.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web/Login Database.md",
+                "file": "Web/Browsing page.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web/Login Database.md",
+                "file": "Web/Browsing page.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web/Login Database.md"
+                "file": "Web/Browsing page.md"
               }
             }
           }
@@ -147,6 +147,10 @@
   },
   "active": "d98e6a76217d13ca",
   "lastOpenFiles": [
+    "Web/Login Database.md",
+    "Web/Browsing page.md",
+    "Web/FirstPage Design.md",
+    "Web/概念圖.md",
     "Web/picture/Pasted image 20231010134641.png",
     "Web/picture/Pasted image 20231010134545.png",
     "Web/picture/Pasted image 20231010114200.png",
@@ -157,13 +161,9 @@
     "Web/picture/Pasted image 20231010110206.png",
     "Web/picture/Pasted image 20231010110057.png",
     "Web/picture/Pasted image 20231010105943.png",
-    "Web/picture/Pasted image 20231010104539.png",
-    "Web/Login Database.md",
-    "Web/FirstPage Design.md",
     "Network Security.md",
     "Web/picture",
     "Web.md",
-    "Web/概念圖.md",
     "Web",
     "Network Management.md",
     "Microprocessor system.md",
