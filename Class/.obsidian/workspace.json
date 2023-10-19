@@ -23,9 +23,11 @@
             "id": "844e5e16ffc7ad3d",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.4.16"
+                "file": "Web/Untitled.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -96,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excel.md",
+                "file": "Web/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excel.md",
+                "file": "Web/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excel.md"
+                "file": "Web/Untitled.md"
               }
             }
           }
@@ -158,8 +160,10 @@
   },
   "active": "844e5e16ffc7ad3d",
   "lastOpenFiles": [
-    "Web/Login Database.md",
     "Web/Store page.md",
+    "Web/Untitled.md",
+    "Excel.md",
+    "Web/Login Database.md",
     "Web/FirstPage Design.md",
     "Web/picture/Pasted image 20231012223033.png",
     "Web/picture/Pasted image 20231012223003.png",
@@ -178,7 +182,6 @@
     "Web",
     "Network Management.md",
     "Microprocessor system.md",
-    "Excel.md",
     "Operatione System/Chapter 1 - Introduction.md",
     "Operatione System"
   ]
