@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d98e6a76217d13ca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Excel.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "844e5e16ffc7ad3d",
             "type": "leaf",
             "state": {
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -160,11 +147,11 @@
   },
   "active": "844e5e16ffc7ad3d",
   "lastOpenFiles": [
-    "Web/Login Database.md",
-    "Web/Store page.md",
-    "Web/Order button.md",
     "Web/FirstPage Design.md",
+    "Web/Store page.md",
     "Excel.md",
+    "Web/Login Database.md",
+    "Web/Order button.md",
     "Web/picture/Pasted image 20231012223033.png",
     "Web/picture/Pasted image 20231012223003.png",
     "Web/picture/Pasted image 20231012222948.png",
