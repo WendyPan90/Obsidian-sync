@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web/Store page.md",
+                "file": "Excel/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web/Store page.md",
+                "file": "Excel/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web/Store page.md",
+                "file": "Excel/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web/Store page.md"
+                "file": "Excel/Untitled.md"
               }
             }
           }
@@ -147,8 +147,14 @@
   },
   "active": "844e5e16ffc7ad3d",
   "lastOpenFiles": [
-    "Web/Login Database.md",
+    "Excel/醫院資料.md",
+    "Excel/課表.md",
+    "Excel/Untitled.md",
+    "Excel/快速鍵.md",
+    "Excel/工具.md",
+    "Network Security.md",
     "Web/Store page.md",
+    "Web/Login Database.md",
     "Web/FirstPage Design.md",
     "Excel.md",
     "Web/Order button.md",
@@ -163,7 +169,6 @@
     "Web/picture/Pasted image 20231012214247.png",
     "Web/picture/Pasted image 20231012213540.png",
     "Web/概念圖.md",
-    "Network Security.md",
     "Web/picture",
     "Web.md",
     "Web",
