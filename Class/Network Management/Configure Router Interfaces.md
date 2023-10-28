@@ -1,0 +1,5 @@
+## Configure Router Interfaces
+* an interface must be:
+	* ==**Configured with at least one IP address**== - Use the **ip address** _ip-address subnet-mask_ and the **ipv6 address** _ipv6-address/prefix_ interface configuration commands.
+	- ==**Activated**== - By default, LAN and WAN interfaces are not activated (**shutdown**). To enable an interface, it must be activated using the **no shutdown** command. (This is similar to powering on the interface.) The interface must also be connected to another device (a hub, a switch, or another router) for the physical layer to be active.
+	- ==**Description**== - Optionally, the interface could also be configured with a short description of up to 240 characters. It is good practice to configure a description on each interface. On production networks, the benefits of interface descriptions are quickly realized as they are helpful in troubleshooting and in identifying a third-party connection and contact information.

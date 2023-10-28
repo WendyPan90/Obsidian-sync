@@ -13,13 +13,13 @@
 	A0 ~ A3: Column
 
 * **char KeyValue[]={'1','2','3','A','4','5','6','B','7','8','9','C','*','0','#','D'};**
-![[switch pin.png]]
+	![[Pasted image 20231002173455.png]]
 
 
 ## **lcd.setCursor(0,0);**
 ### Description
   move the LCD cursor's position to new position(row, cloumn); that is, set the location at which subsequent text written to the LCD will ve displayed
-	![[LCD position.png]]
+	![[Pasted image 20231002173705.png]]
 
 
 ## *lcd.print();**
