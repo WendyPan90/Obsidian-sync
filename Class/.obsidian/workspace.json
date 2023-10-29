@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Excel/工具.md",
+                "file": "Excel/統計函數.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excel/工具.md",
+                "file": "Excel/統計函數.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excel/工具.md",
+                "file": "Excel/統計函數.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excel/工具.md"
+                "file": "Excel/統計函數.md"
               }
             }
           }
@@ -147,20 +147,20 @@
   },
   "active": "844e5e16ffc7ad3d",
   "lastOpenFiles": [
-    "Pasted image 20231029160027.png",
-    "Pasted image 20231029154424.png",
-    "Pasted image 20231029154122.png",
-    "Pasted image 20231029154045.png",
-    "Pasted image 20231029153735.png",
-    "Pasted image 20231029153437.png",
-    "Pasted image 20231029153316.png",
-    "Pasted image 20231029152726.png",
-    "Pasted image 20231029152457.png",
-    "Pasted image 20231029152310.png",
-    "Excel/比對資料.md",
+    "Excel/picture/Pasted image 20231029152457.png",
+    "Excel/統計函數.md",
     "Excel/工具.md",
+    "Excel/picture/Pasted image 20231029160027.png",
+    "Excel/picture/Pasted image 20231029154424.png",
+    "Excel/picture/Pasted image 20231029154122.png",
+    "Excel/picture/Pasted image 20231029154045.png",
+    "Excel/picture/Pasted image 20231029153735.png",
+    "Excel/picture/Pasted image 20231029153437.png",
+    "Excel/picture/Pasted image 20231029153316.png",
+    "Excel/picture/Pasted image 20231029152726.png",
+    "Excel/picture/Pasted image 20231029152310.png",
+    "Excel/比對資料.md",
     "Excel/醫院資料.md",
-    "Excel/picture/Pasted image 20231029145316.png",
     "Excel/快速鍵.md",
     "Excel/名單資料整理.md",
     "Excel/課表.md",
