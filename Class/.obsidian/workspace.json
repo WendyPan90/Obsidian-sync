@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Excel/名單資料整理.md",
+                "file": "Excel/工具.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excel/名單資料整理.md",
+                "file": "Excel/工具.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excel/名單資料整理.md",
+                "file": "Excel/工具.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excel/名單資料整理.md"
+                "file": "Excel/工具.md"
               }
             }
           }
@@ -147,9 +147,9 @@
   },
   "active": "844e5e16ffc7ad3d",
   "lastOpenFiles": [
+    "Excel/名單資料整理.md",
     "Excel/比對資料.md",
     "Excel/工具.md",
-    "Excel/名單資料整理.md",
     "Excel/快速鍵.md",
     "Excel/統計函數.md",
     "Excel/課表.md",
