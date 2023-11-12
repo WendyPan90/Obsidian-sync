@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSS.md",
+                "file": "Accessories/CPU cooler+case fan.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSS.md",
+                "file": "Accessories/CPU cooler+case fan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSS.md",
+                "file": "Accessories/CPU cooler+case fan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSS.md"
+                "file": "Accessories/CPU cooler+case fan.md"
               }
             }
           }
@@ -148,14 +148,14 @@
   },
   "active": "1c5b920feeab3207",
   "lastOpenFiles": [
+    "Accessories/基本配件.md",
+    "CSS.md",
     "SMT.md",
     "Polymorphism多形.md",
     "MVC.md",
     "MERN.md",
     "Information Security.md",
-    "CSS.md",
     "CDC.md",
-    "Accessories/基本配件.md",
     "Accessories/Screen.md",
     "Accessories/Power supply.md",
     "Accessories/Motherboard.md",
