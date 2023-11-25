@@ -4,7 +4,7 @@
 1. **create new project**
 	1. 新增專案。
 		![[Pasted image 20230924135517.png]]
-	2. 選擇要新增的模板。
+	2. 選擇要新增的模板。(web form)
 		![[Pasted image 20230924141602.png]]
 	3. 設定新專案名稱及位置。
 		![[Pasted image 20230924141916.png]]

@@ -11,11 +11,9 @@
             "id": "844e5e16ffc7ad3d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Excel/快速鍵.md",
-                "mode": "source",
-                "source": false
+                "file": "Web/picture/Pasted image 20231006170728.png"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excel/快速鍵.md",
+                "file": "Web/picture/Pasted image 20231006170728.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excel/快速鍵.md",
+                "file": "Web/picture/Pasted image 20231006170728.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excel/快速鍵.md"
+                "file": "Web/picture/Pasted image 20231006170728.png"
               }
             }
           }
@@ -148,11 +146,18 @@
   },
   "active": "844e5e16ffc7ad3d",
   "lastOpenFiles": [
+    "Web/picture/Pasted image 20231006170408.png",
+    "Web/picture/Pasted image 20231006170332.png",
+    "Web/概念圖.md",
+    "Web/Order button.md",
+    "Web/Login Database.md",
+    "Web/FirstPage Design.md",
+    "Web/Store page.md",
+    "Excel/快速鍵.md",
     "Excel/樞紐分析.md",
     "Excel/醫院資料.md",
     "Excel/課表.md",
     "Excel/統計函數.md",
-    "Excel/快速鍵.md",
     "Excel/名單資料整理.md",
     "Excel/比對資料.md",
     "Excel/工具.md",
@@ -165,15 +170,9 @@
     "Excel/picture/Pasted image 20231109180636.png",
     "Excel/picture/Pasted image 20231109180440.png",
     "Excel/picture/Pasted image 20231029214232.png",
-    "Excel/picture/Pasted image 20231029214120.png",
     "Microprocessor system/Microprocessor system.md",
     "Network Security.md",
-    "Web/Store page.md",
-    "Web/Login Database.md",
-    "Web/FirstPage Design.md",
     "Excel.md",
-    "Web/Order button.md",
-    "Web/概念圖.md",
     "Web/picture",
     "Web.md",
     "Web",
