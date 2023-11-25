@@ -11,9 +11,11 @@
             "id": "844e5e16ffc7ad3d",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Web/picture/Pasted image 20231006170728.png"
+                "file": "Excel/工具.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web/picture/Pasted image 20231006170728.png",
+                "file": "Excel/工具.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web/picture/Pasted image 20231006170728.png",
+                "file": "Excel/工具.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web/picture/Pasted image 20231006170728.png"
+                "file": "Excel/工具.md"
               }
             }
           }
@@ -146,6 +148,7 @@
   },
   "active": "844e5e16ffc7ad3d",
   "lastOpenFiles": [
+    "Web/picture/Pasted image 20231006170728.png",
     "Web/picture/Pasted image 20231006170408.png",
     "Web/picture/Pasted image 20231006170332.png",
     "Web/概念圖.md",
@@ -169,7 +172,6 @@
     "Excel/picture/Pasted image 20231109180930.png",
     "Excel/picture/Pasted image 20231109180636.png",
     "Excel/picture/Pasted image 20231109180440.png",
-    "Excel/picture/Pasted image 20231029214232.png",
     "Microprocessor system/Microprocessor system.md",
     "Network Security.md",
     "Excel.md",
