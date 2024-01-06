@@ -18,19 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "29de42415a2a0e9b",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.3"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -157,7 +146,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "29de42415a2a0e9b",
+  "active": "844e5e16ffc7ad3d",
   "lastOpenFiles": [
     "Excel/樞紐分析.md",
     "Excel/統計函數.md",
